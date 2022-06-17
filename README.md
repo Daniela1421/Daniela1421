@@ -7,7 +7,7 @@ Soy **Desarrolladora Front-end** en formación del Bootcamp intensivo de Laborat
 - ⚡ Dato curioso: Amante de los animales 🐶🐱, de los dulces 🍬 y pasar tiempo en familia 👪
 - 🖥️ Tech skills:
 
-![Group 6](https://user-images.githubusercontent.com/92064924/174198493-eced538a-23d3-44b1-bcd3-06f4efcc6bfe.png){width=10px height=10px}
+![Mi proyecto](https://user-images.githubusercontent.com/92064924/174199055-f5e7ac51-ff85-417b-953a-eb1b359435a0.png)
 ![Group 14](https://user-images.githubusercontent.com/92064924/174198455-4d4bdbf5-5b6f-4445-a470-9f0029916cf6.png){width=20px height=20px}
 
 
