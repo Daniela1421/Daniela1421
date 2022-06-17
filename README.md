@@ -6,8 +6,9 @@ Soy **Desarrolladora Front-end** en formación del Bootcamp intensivo de Laborat
 - 📫 Me puedes contactarme en [LinkedIn](www.linkedin.com/in/daniela-ducuara) o gmail a daniela.ducuara1817@gmail.com
 - ⚡ Dato curioso: Amante de los animales 🐶🐱, de los dulces 🍬 y pasar tiempo en familia 👪
 - 🖥️ Tech skills:
-![Group 6](https://user-images.githubusercontent.com/92064924/174198493-eced538a-23d3-44b1-bcd3-06f4efcc6bfe.png)
-![Group 14](https://user-images.githubusercontent.com/92064924/174198455-4d4bdbf5-5b6f-4445-a470-9f0029916cf6.png)
+
+![Group 6](https://user-images.githubusercontent.com/92064924/174198493-eced538a-23d3-44b1-bcd3-06f4efcc6bfe.png){width=10px height=10px}
+![Group 14](https://user-images.githubusercontent.com/92064924/174198455-4d4bdbf5-5b6f-4445-a470-9f0029916cf6.png){width=20px height=20px}
 
 
 
